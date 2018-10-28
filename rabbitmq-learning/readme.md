@@ -41,7 +41,7 @@ rabbitmq-plugins enbale rabbitmq_management
 ```
 * 使用管理界面
 ```
-打开浏览器，输入：localhost:15673，然后回车
+打开浏览器，输入：localhost:15672，然后回车
 进入登陆界面，默认账户密码：guest
 ```
 * 创建自己的管理账户
