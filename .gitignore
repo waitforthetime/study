@@ -15,9 +15,8 @@
 
 # for IDEA
 */build/*
-.idea/*
-*/.idea/*
-*/target/*
+*.idea/*
+**/target/
 *.iml
 /out/*
 /src/test/*
