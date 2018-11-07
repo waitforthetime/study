@@ -1,0 +1,23 @@
+# for Eclipse
+*.project
+
+# for Logs and databases
+*.log
+
+# remove SVN
+.svn
+
+# for Xcode
+.*.swp
+.clang_complete
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+
+# for IDEA
+*/build/*
+.idea/*
+*/.idea/*
+*/target/*
+*.iml
+/out/*
+/src/test/*
